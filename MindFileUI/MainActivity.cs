@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace MindFileUI
 {
-    [Activity(Label = "MindFileUI", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Mind File", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)
