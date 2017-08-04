@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindFileUI", "MindFileUI\MindFileUI.csproj", "{ED3116DB-E3FD-4296-B0B4-B7753E45DE29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindFileClassLibrary", "MindFileClassLibrary\MindFileClassLibrary.csproj", "{42DF6545-E338-450A-80CC-EEA47FF476A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{ED3116DB-E3FD-4296-B0B4-B7753E45DE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED3116DB-E3FD-4296-B0B4-B7753E45DE29}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ED3116DB-E3FD-4296-B0B4-B7753E45DE29}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{42DF6545-E338-450A-80CC-EEA47FF476A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DF6545-E338-450A-80CC-EEA47FF476A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DF6545-E338-450A-80CC-EEA47FF476A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DF6545-E338-450A-80CC-EEA47FF476A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
